@@ -223,4 +223,4 @@ Feel free to [contact us](mailto:meic-ami@disciplinas.tecnico.ulisboa.pt) to dis
 
 ## License
 
-Copyright 2022-25 AmI faculty (Miguel L. Pardal, Alberto Cunha, David R. Matos)
+Copyright 2022-2026 AmI faculty (Miguel L. Pardal, Alberto Cunha, David R. Matos)
