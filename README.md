@@ -1,6 +1,6 @@
-# Awesome Ambient Intelligence and Internet of Things [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Internet of Things and Ambient Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Ambient Intelligence and Internet of Things publications, hardware, software, and other resources.
+A curated list of awesome Internet of Things and Ambient Intelligence publications, hardware, software, and other resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
