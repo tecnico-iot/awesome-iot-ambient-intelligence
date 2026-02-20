@@ -126,6 +126,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [BuildSys - ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation](https://buildsys.acm.org/) - *not ranked by CORE*
     * [2026 - Banff, Alberta, CA](https://buildsys.acm.org/2026/)
     * [2025 - Golden, CO, USA](https://buildsys.acm.org/2025/)
+* [COINS - IEEE International Conference on Omni-layer Intelligent Systems](https://coinsconf.com/) - *not ranked by CORE*
+    * 2026 - Bologna, IT
 * [IntelliSys - Intelligent Systems Conference](https://saiconference.com/IntelliSys) - *not a scientific conference*
     * [2025 - Amsterdam, NL](https://saiconference.com/IntelliSys)
     * [2024 - Amsterdam, NL](https://saiconference.com/Conferences/IntelliSys2024)
