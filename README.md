@@ -87,7 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [2021 - Atlanta, GA, USA](http://ieeesmartworld.org/uic/)
 * [EUC - IEEE/IFIP International Conference on Embedded and Ubiquitous Computing](https://ieeexplore.ieee.org/xpl/conhome/1002596/all-proceedings) - [CORE C](http://portal.core.edu.au/conf-ranks/788/)
     * [2023 - Exeter, UK](https://hpcn.exeter.ac.uk/euc2023/)
-    * [2022 - Wuhan, CN](https://www.aconf.org/conf_186051.html)   
+    * [2022 - Wuhan, CN](https://www.aconf.org/conf_186051.html)
     * [2021 - Shenyang, CN](https://ieeexplore.ieee.org/xpl/conhome/9741746/proceeding)
 * [UBICOMM - International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies](https://www.iaria.org/conferences/UBICOMM.html) - [CORE C](http://portal.core.edu.au/conf-ranks/1134/)
     * [2026 - Barcelona, ES](https://www.iaria.org/conferences2026/UBICOMM26.html)
@@ -205,6 +205,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * CoAP
     * [libcoap](https://libcoap.net/) - C-Implementation of CoAP
     * [Californium](https://www.eclipse.org/californium/) - CoAP in Java
+* Computer Vision
+    * [OpenMV IDE](https://openmv.io/pages/download) - IDE for developing and deploying embedded computer vision applications on OpenMV cameras
+    * [Roboflow](https://roboflow.com/) - tools for computer vision dataset management, labeling, and model workflows
 * [Flutter](https://flutter.dev/) - used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase
 * [Home Assistant](https://www.home-assistant.io/)
     * [Nabu Casa](https://www.nabucasa.com/) - Home Assistant Cloud
