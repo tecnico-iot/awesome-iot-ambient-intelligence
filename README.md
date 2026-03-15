@@ -148,6 +148,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Journal of Ambient Intelligence and Humanized Computing](https://link.springer.com/journal/12652), ISSN 18685137, 18685145 - [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=19400158593&tip=sid&clean=0)
 * [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856), ISSN 15455955, [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=17340&tip=sid&clean=0)
 * [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), ISSN 15249050, 15580016, [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=18378&tip=sid&clean=0)
+* [Journal of Sensor and Actuator Networks](https://www.mdpi.com/journal/jsan), ISSN 22242708, [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=21100830709&tip=sid)
+
 
 ### Books
 
