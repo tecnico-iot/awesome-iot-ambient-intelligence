@@ -201,8 +201,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 <br/-->
 
 * Arduino libraries
+    * [Arduino software](https://www.arduino.cc/en/software/) - write, compile, and upload code to Arduino boards
     * [MegunoLink](https://www.megunolink.com/introduction/arduino-user-interface/) - Build interfaces for Arduino Sketches
     * [Johnny-Five](http://johnny-five.io/) - JavaScript Robotics & IoT Platform for Arduino boards
+    * [Tinkercad](https://www.tinkercad.com/learn/circuits) - build and simulate circuits
+    * [CodeKit](https://edukits.co/code/#/d/draft/editor) - block editor to create Arduino programs
+    * [Wokwi](https://wokwi.com/) - ESP32, STM32, Arduino and embedded systems simulator
+    * [Steam Makers Blocks](https://www.steamakersblocks.com/) - visual block-based platform for programming Arduino and robotics projects
 * [Android](https://www.android.com/) tools and libraries
     * [Android Studio](https://developer.android.com/studio/intro)
 * C language libraries
@@ -217,6 +222,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [Nabu Casa](https://www.nabucasa.com/) - Home Assistant Cloud
 * [Hubitat](https://hubitat.com/) - non-internet dependent home automation hub with local processing
 * Java libraries
+    * [Eclipse Paho MQTT client library](https://github.com/eclipse-paho/paho.mqtt.java)
 * MQTT
     * [Eclipse Mosquitto](https://mosquitto.org/) - An open source MQTT broker
 * [Node-RED](https://developer.ibm.com/components/node-red/) - visual programming for wiring together hardware devices, APIs and online services
